@@ -1,19 +1,18 @@
 <div align="center">
   <h2> Hey Hey Hey!!!, it's me Frank !!</h2>
-  <small>Do what make you happy 😃</small>
 </div>
-
-
 
 <div>
-<img src="https://github.com/contrerasjf0/contrerasjf0/blob/main/background-pixe-art.jpeg" />
+<img src="https://github.com/contrerasjf0/contrerasjf0/blob/main/src/img/background-pixe-art.jpeg" width="100%"/>
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=contrerasjf0ldkhan&label=Profile%20views&color=0e75b6&style=flat" alt="googoldkhan" /> <p align="center">Do what make you happy 😃</p> </p>
+  
 </div>
 
-<p align="left" style="color:red;">I'm Frank a fullstack developer.</p>
+<p align="left">I'm Frank a fullstack developer.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=contrerasjf0ldkhan&label=Profile%20views&color=0e75b6&style=flat" alt="googoldkhan" /> </p>
 
-<img align="right" alt="avatar" src="https://github.com/contrerasjf0/contrerasjf0/blob/main/Screen_Shot_2021-07-01_at_19.46.27-removebg-preview.png"  height="400"/>
+
+<img align="right" alt="avatar" src="https://github.com/contrerasjf0/contrerasjf0/blob/main/src/img/frank-dev.png"  height="400"/>
 
 - 🌱 I'm sekf-taught person. I love to learn new things.
 
@@ -58,7 +57,7 @@
   <br/>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=contrerasjf0&layout=compact&theme=tokyonight)
-![Contrerasjf0's GitHub stats](https://github-readme-stats.vercel.app/api?username=contrerasjf0&show_icons=true&theme=tokyonight)
+![Contrerasjf0's GitHub stats](https://github-readme-stats.vercel.app/api?username=contrerasjf0&show_icons=true&theme=tokyonight&count_private=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=contrerasjf0&theme=tokyonight&border_radius=4.9&mode=weekly)](https://git.io/streak-stats)
   

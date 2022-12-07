@@ -1,13 +1,19 @@
-<div align="left"><h2> Hey Hey Hey!!!, it's me Frank !! </h2><br></div>
-<h5>Do what make you happy 😃</h5>
+<div align="center">
+  <h2> Hey Hey Hey!!!, it's me Frank !!</h2>
+  <small>Do what make you happy 😃</small>
+</div>
 
-<p align="left">I'm Frank a fullstack developer.</p>
+
+
+<div>
+<img src="https://github.com/contrerasjf0/contrerasjf0/blob/main/background-pixe-art.jpeg" />
+</div>
+
+<p align="left" style="color:red;">I'm Frank a fullstack developer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=contrerasjf0ldkhan&label=Profile%20views&color=0e75b6&style=flat" alt="googoldkhan" /> </p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-
+<img align="right" alt="avatar" src="https://github.com/contrerasjf0/contrerasjf0/blob/main/Screen_Shot_2021-07-01_at_19.46.27-removebg-preview.png"  height="400"/>
 
 - 🌱 I'm sekf-taught person. I love to learn new things.
 
@@ -20,6 +26,8 @@
 - 🤝 I'm an eternal padawan.
 
 - 👨‍💻 I like to attend meetups and collaborate in tech communities.
+
+
 
 <table><tr><td valign="top" width="33%">
 <h3 align="center">Programming Languages</h3>
